@@ -6,7 +6,7 @@ Code will ba added soon.
 
 # Features
 - Meteo
-- Homworks
+- Homeworks
 - Images finder with Unsplash API
 - Traduction
 - ...
